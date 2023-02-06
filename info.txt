@@ -2,4 +2,3 @@ Hari Kammana
 Banglore
 Java Home Cloud
 Karnataka
-DevOps
